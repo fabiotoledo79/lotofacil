@@ -9,5 +9,4 @@ private
   def raffle_number
   	Array(1..25).sample(15).sort
   end
-
 end
