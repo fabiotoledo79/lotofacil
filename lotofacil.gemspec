@@ -10,4 +10,6 @@ Gem::Specification.new do |s|
   s.homepage    =
     'http://rubygems.org/gems/lotofacil'
   s.license       = 'MIT'
+
+  s.add_development_dependency "bundler", "~> 1.10.6"
 end
