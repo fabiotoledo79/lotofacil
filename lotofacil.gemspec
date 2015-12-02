@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'lotofacil'
-  s.version     = '0.0.1'
+  s.version     = '0.0.0'
   s.date        = '2015-12-01'
   s.summary     = "Lotofacil"
   s.description = "Generate number of lotofacil"
